@@ -13,6 +13,7 @@
 		D4E428A827950E6400009B83 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4E428A627950E6400009B83 /* Main.storyboard */; };
 		D4E428AA27950E6700009B83 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D4E428A927950E6700009B83 /* Assets.xcassets */; };
 		D4E428AD27950E6700009B83 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4E428AB27950E6700009B83 /* LaunchScreen.storyboard */; };
+		D4E428B927952EEB00009B83 /* LapViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4E428B827952EEB00009B83 /* LapViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D4E428A927950E6700009B83 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D4E428AC27950E6700009B83 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D4E428AE27950E6700009B83 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D4E428B827952EEB00009B83 /* LapViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LapViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				D4E428A927950E6700009B83 /* Assets.xcassets */,
 				D4E428AB27950E6700009B83 /* LaunchScreen.storyboard */,
 				D4E428AE27950E6700009B83 /* Info.plist */,
+				D4E428B827952EEB00009B83 /* LapViewCell.swift */,
 			);
 			path = MAD4114_review_exe;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D4E428B927952EEB00009B83 /* LapViewCell.swift in Sources */,
 				D4E428A527950E6400009B83 /* ViewController.swift in Sources */,
 				D4E428A127950E6400009B83 /* AppDelegate.swift in Sources */,
 				D4E428A327950E6400009B83 /* SceneDelegate.swift in Sources */,
